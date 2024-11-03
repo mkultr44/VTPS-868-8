@@ -1,0 +1,5 @@
+Quantity,Designator,Manufacturer,Manufacturer Part,Category,Value,Package,
+1,,,,PCB,,,
+1,,,,1590B Case,,,
+9,,,,SMA Panel Mount,,,
+7,R1-R7,Vishay,MCS04020D1000BE000,Resistor,100 Ohms,402
